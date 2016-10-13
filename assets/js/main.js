@@ -1,7 +1,5 @@
 /*
-	Spectral by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+	Mathusan Aiyadurai Iyer | Sri Kalyana Subramaniar Tempel Bern Website V3.0 | Datum: 13.07.16 | JavaScript | Design by http://mathu.ch
 */
 
 (function($) {
