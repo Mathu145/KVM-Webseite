@@ -3025,8 +3025,8 @@ body.is-menu-visible #menu {
     border: 0;
     color: #fff;
     display: block;
-    font-size: 0.8em;
-    letter-spacing: 0.225em;
+    font-size: 1em;
+    letter-spacing: 0.285em;
     padding: 0 1.5em;
     text-transform: uppercase;
 }
@@ -3035,12 +3035,12 @@ body.is-menu-visible #menu {
     position: relative;
 }
 #header nav > ul > li > a.menuToggle:after {
-    background-image: url("images/bars.svg");
+    background-image: url(images/bars.svg);
     background-position: right center;
     background-repeat: no-repeat;
     content: '';
     display: inline-block;
-    height: 3.75em;
+    height: 3.2em;
     vertical-align: top;
     width: 2em;
 }
