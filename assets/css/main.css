@@ -796,6 +796,13 @@ cc {
     .\-1u\28large\29 {
         margin-left: 8.33333%;
     }
+    .news {
+    float: left;
+    margin-top: 44px;
+    margin-left: 63px;
+    margin-right: 730px;
+    margin-bottom: 40px;
+    }
 }
 
 @media screen and (max-width: 980px) {
@@ -980,6 +987,13 @@ cc {
     .\-1u\28medium\29 {
         margin-left: 8.33333%;
     }
+    .news {
+    float: left;
+    margin-top: 44px;
+    margin-left: 63px;
+    margin-right: 450px;
+    margin-bottom: 40px;
+    }
 }
 
 @media screen and (max-width: 736px) {
@@ -1162,6 +1176,14 @@ cc {
     }
     .\-1u\28small\29 {
         margin-left: 8.33333%;
+    }
+    
+    .news {
+    float: left;
+    margin-top: 36px;
+    margin-left: 66px;
+    margin-right: 231px;
+    margin-bottom: 45px;
     }
 }
 
@@ -1378,6 +1400,13 @@ cc {
     margin-left: 8.33333%;
 }
 
+.news {
+    float: left;
+    margin-top: 36px;
+    margin-left: 24px;
+    margin-right: 18px;
+    margin-bottom: 23px;
+    }
 
 }
 
@@ -3525,7 +3554,7 @@ body.is-mobile.landing #footer {
 .news {
     float: left;
     margin-top: 70px;
-    margin-left: 35px;
+    margin-left: 42px;
     margin-right: 5px;
     margin-bottom: 35px;
     border-radius: 4px;
