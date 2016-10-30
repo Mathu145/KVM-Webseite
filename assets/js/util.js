@@ -1,3 +1,6 @@
+/*
+	Mathusan Sarma Aiyadurai Iyer | Sri Kalyana Subramaniar Tempel Bern Website V4.0 | Datum: 13.07.16 | ஸ்ரீ கல்யாண சுப்பிரமணியஸ்வாமி ஆலயம் பேர்ன் | Sri Kalyana Subramaniar Tempel Bern | Design by http://mathu.ch | Contact: aiya.mathu97@gmail.coms
+*/
 (function($) {
 
 	/**
